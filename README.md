@@ -29,6 +29,8 @@ further investigation or research to learn and apply.
   - OpenShift
 - AWS
 - Heroku
+- [Webpack](https://survivejs.com/webpack/what-is-webpack/)
+- [ngrok](https://ngrok.com/)
 
 
 ## Resources
